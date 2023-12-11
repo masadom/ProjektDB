@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dominik\\source\\repos\\We\\ProjektBD\\ProjektBD\\ProjektBD.csproj",
+      "projectUniqueName": "C:\\Users\\Dominik\\source\\repos\\We\\ProjektBDGit\\ProjektBD\\ProjektBD.csproj",
       "projectName": "ProjektBD",
-      "projectPath": "C:\\Users\\Dominik\\source\\repos\\We\\ProjektBD\\ProjektBD\\ProjektBD.csproj",
+      "projectPath": "C:\\Users\\Dominik\\source\\repos\\We\\ProjektBDGit\\ProjektBD\\ProjektBD.csproj",
       "packagesPath": "C:\\Users\\Dominik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dominik\\source\\repos\\We\\ProjektBD\\ProjektBD\\obj\\",
+      "outputPath": "C:\\Users\\Dominik\\source\\repos\\We\\ProjektBDGit\\ProjektBD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
