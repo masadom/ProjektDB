@@ -1,0 +1,15 @@
+C:\Users\Dominik\source\repos\We\ProjektBD\ProjektBD\obj\Debug\net6.0\ProjektBD.csproj.AssemblyReference.cache
+C:\Users\Dominik\source\repos\We\ProjektBD\ProjektBD\obj\Debug\net6.0\ProjektBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\source\repos\We\ProjektBD\ProjektBD\obj\Debug\net6.0\ProjektBD.AssemblyInfoInputs.cache
+C:\Users\Dominik\source\repos\We\ProjektBD\ProjektBD\obj\Debug\net6.0\ProjektBD.AssemblyInfo.cs
+C:\Users\Dominik\source\repos\We\ProjektBD\ProjektBD\obj\Debug\net6.0\ProjektBD.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\source\repos\We\ProjektBD\ProjektBD\bin\Debug\net6.0\ProjektBD.exe
+C:\Users\Dominik\source\repos\We\ProjektBD\ProjektBD\bin\Debug\net6.0\ProjektBD.deps.json
+C:\Users\Dominik\source\repos\We\ProjektBD\ProjektBD\bin\Debug\net6.0\ProjektBD.runtimeconfig.json
+C:\Users\Dominik\source\repos\We\ProjektBD\ProjektBD\bin\Debug\net6.0\ProjektBD.dll
+C:\Users\Dominik\source\repos\We\ProjektBD\ProjektBD\bin\Debug\net6.0\ProjektBD.pdb
+C:\Users\Dominik\source\repos\We\ProjektBD\ProjektBD\obj\Debug\net6.0\ProjektBD.dll
+C:\Users\Dominik\source\repos\We\ProjektBD\ProjektBD\obj\Debug\net6.0\refint\ProjektBD.dll
+C:\Users\Dominik\source\repos\We\ProjektBD\ProjektBD\obj\Debug\net6.0\ProjektBD.pdb
+C:\Users\Dominik\source\repos\We\ProjektBD\ProjektBD\obj\Debug\net6.0\ProjektBD.genruntimeconfig.cache
+C:\Users\Dominik\source\repos\We\ProjektBD\ProjektBD\obj\Debug\net6.0\ref\ProjektBD.dll
