@@ -2,7 +2,6 @@
 
 public class Samochod
 {
-    [Key]
     public int SamochodId { get; set; }
 
     public string Marka { get; set; }
@@ -11,4 +10,5 @@ public class Samochod
     public int RokProdukcji { get; set; }
     public bool Dostepny { get; set; }
     public decimal CenaZaDzien { get; set; }
+    public ICollection<Samochod> Samochody { get; set; }
 }

@@ -2,7 +2,6 @@
 
 public class Klient
 {
-    [Key]
     public int KlientId { get; set; }
 
     public string Imie { get; set; }
@@ -10,4 +9,6 @@ public class Klient
     public string Adres { get; set; }
     public string NumerTelefonu { get; set; }
     public string Email { get; set; }
+    public ICollection<Klient> Klienci { get; set; }
+
 }
